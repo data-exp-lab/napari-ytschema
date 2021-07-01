@@ -70,8 +70,8 @@ https://napari.org/docs/plugins/index.html
 
 ### Local installation (works): 
 
-analysis_schema manual install of PR: https://github.com/data-exp-lab/analysis_schema/pull/5
-clone this repo, then `pip install .` (or `pip install -e .` if you want to continue the experiment!)
+* analysis_schema manual install of PR: https://github.com/data-exp-lab/analysis_schema/pull/5
+* clone this repo, then `pip install .` (or `pip install -e .` if you want to continue the experiment!)
 
 
 ### general installation (does not work)
