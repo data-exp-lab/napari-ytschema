@@ -11,7 +11,7 @@ test of a schema based loader for use with https://github.com/data-exp-lab/analy
 ### temporary usage instructions:
 
 
-This plugin currently relies on an WIP PR to the analysis_schema repo: https://github.com/data-exp-lab/analysis_schema/pull/5 which adds a convenience class that to easily return a 3D ndarray sampling of a dataset.  
+This plugin currently relies on an WIP PR to the analysis_schema repo: https://github.com/data-exp-lab/analysis_schema/pull/5 which adds a convenience class to easily return a 3D ndarray sampling of a dataset.  
 
 here's a sample of a json that can be loaded into napari with this plugin:
 
