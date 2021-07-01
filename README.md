@@ -6,7 +6,7 @@
 [![tests](https://github.com/chrishavlin/napari-ytschema/workflows/tests/badge.svg)](https://github.com/chrishavlin/napari-ytschema/actions)
 [![codecov](https://codecov.io/gh/chrishavlin/napari-ytschema/branch/master/graph/badge.svg)](https://codecov.io/gh/chrishavlin/napari-ytschema)
 
-test of a schema based loader
+test of a schema based loader for use with https://github.com/data-exp-lab/analysis_schema 
 
 ----------------------------------
 
